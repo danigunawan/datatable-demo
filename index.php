@@ -69,7 +69,7 @@
 	<body>
 		<div class="header"><h1>DataTable demo (Server side) in Php,Mysql and Ajax </h1></div>
 		<div class="container">
-
+<h1>Table baru</h1>
 		<form id="form">
 			<input type="text" name="nama" id="nama">
 			<button type="submit" id="submit">Submit</button>
